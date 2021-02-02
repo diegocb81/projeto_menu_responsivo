@@ -7,6 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/fontawesome.min.css">
+    <link rel="stylesheet" href="css/all.css">
 </head>
 
 <body>
@@ -14,7 +16,8 @@
         <div class="container">
             <div class="logo">
                 <h2>Logomarca</h2>
-            </div><!--logo-->
+            </div>
+            <!--logo-->
             <nav class="menu-desktop">
                 <ul>
                     <li>
@@ -23,7 +26,8 @@
                             <li><a href="">Sessão 1</a></li>
                             <li><a href="">Sessão 2</a></li>
                             <li><a href="">Sessão 3</a></li>
-                        </ul><!--submenu-desktop-->
+                        </ul>
+                        <!--submenu-desktop-->
                     </li>
                     <li>
                         <a href="">Sobre</a>
@@ -31,7 +35,8 @@
                             <li><a href="">Sessão 1</a></li>
                             <li><a href="">Sessão 2</a></li>
                             <li><a href="">Sessão 3</a></li>
-                        </ul><!--submenu-desktop-->
+                        </ul>
+                        <!--submenu-desktop-->
                     </li>
                     <li>
                         <a href="">Contato</a>
@@ -39,12 +44,44 @@
                             <li><a href="">Sessão 1</a></li>
                             <li><a href="">Sessão 2</a></li>
                             <li><a href="">Sessão 3</a></li>
-                        </ul><!--submenu-desktop-->
+                        </ul>
+                        <!--submenu-desktop-->
                     </li>
                 </ul>
             </nav>
-            <div class="clear"></div><!--clear-->
-        </div><!--container-->
+            <nav class="menu-mobile">
+                <i class="fas fa-bars"></i>
+                <ul>
+                    <li>
+                        <a href="">Home</a>
+                        <ul class="submenu-mobile">
+                            <li><i class="fas fa-angle-double-right"></i><a href="">Sessão 1</a></li>
+                            <li><i class="fas fa-angle-double-right"></i><a href="">Sessão 2</a></li>
+                            <li><i class="fas fa-angle-double-right"></i><a href="">Sessão 3</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="">Sobre</a>
+                        <ul class="submenu-mobile">
+                            <li><i class="fas fa-angle-double-right"></i><a href="">Sessão 1</a></li>
+                            <li><i class="fas fa-angle-double-right"></i><a href="">Sessão 2</a></li>
+                            <li><i class="fas fa-angle-double-right"></i><a href="">Sessão 3</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="">Contato</a>
+                        <ul class="submenu-mobile">
+                            <li><i class="fas fa-angle-double-right"></i><a href="">Sessão 1</a></li>
+                            <li><i class="fas fa-angle-double-right"></i><a href="">Sessão 2</a></li>
+                            <li><i class="fas fa-angle-double-right"></i><a href="">Sessão 3</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+            <div class="clear"></div>
+            <!--clear-->
+        </div>
+        <!--container-->
     </header>
 </body>
 
