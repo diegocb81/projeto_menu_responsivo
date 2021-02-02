@@ -83,6 +83,12 @@
         </div>
         <!--container-->
     </header>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript">
+        $('nav.menu-mobile > i').click(function(){
+            $(this).parent().find('ul:not(.submenu-mobile)').slideToggle();
+        })
+    </script>
 </body>
 
 </html>

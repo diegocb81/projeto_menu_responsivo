@@ -55,7 +55,7 @@ ul.submenu-desktop{
     list-style: none;
     display: none;
     position: absolute;
-    left: 8px;
+    right: 0;
     top: 20px;
     width: 300px;
     padding: 8px 0;
@@ -79,12 +79,14 @@ nav.menu-mobile{
 }
 
 nav.menu-mobile > ul{
+    display: none;
     background: white;
     width: 100%;
     list-style-type: none;
     position: absolute;
     left: 0;
     top: 40px;
+    border-top: 2px solid #cccccc;
 }
 
 nav.menu-mobile > ul > li{
