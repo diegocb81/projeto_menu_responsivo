@@ -25,8 +25,22 @@
                             <li><a href="">Sessão 3</a></li>
                         </ul><!--submenu-desktop-->
                     </li>
-                    <li><a href="">Sobre</a></li>
-                    <li><a href="">Contato</a></li>
+                    <li>
+                        <a href="">Sobre</a>
+                        <ul class="submenu-desktop">
+                            <li><a href="">Sessão 1</a></li>
+                            <li><a href="">Sessão 2</a></li>
+                            <li><a href="">Sessão 3</a></li>
+                        </ul><!--submenu-desktop-->
+                    </li>
+                    <li>
+                        <a href="">Contato</a>
+                        <ul class="submenu-desktop">
+                            <li><a href="">Sessão 1</a></li>
+                            <li><a href="">Sessão 2</a></li>
+                            <li><a href="">Sessão 3</a></li>
+                        </ul><!--submenu-desktop-->
+                    </li>
                 </ul>
             </nav>
             <div class="clear"></div><!--clear-->

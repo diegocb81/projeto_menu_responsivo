@@ -37,7 +37,7 @@ nav.menu-desktop > ul{
 
 nav.menu-desktop > ul > li{
     font-size: 16px;
-    padding: 0 15px;
+    margin: 0 15px;
     display: inline-block;
     position: relative;
 }
@@ -52,13 +52,19 @@ nav.menu-desktop a{
 }
 
 ul.submenu-desktop{
+    list-style: none;
     display: none;
     position: absolute;
     left: 8px;
     top: 20px;
     width: 300px;
     padding: 8px 0;
-    background: #01579b;
+    background: #039be5;
+}
+
+ul.submenu-desktop li{
+    padding: 8px;
+    border-bottom: 1px solid white;
 }
 
 nav.menu-desktop a:hover{
