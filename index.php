@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/fontawesome.min.css">
     <link rel="stylesheet" href="css/all.css">
+    <link rel="shortcut icon" href="icone.ico" type="image-x/png">
 </head>
 
 <body>
