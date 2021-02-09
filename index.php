@@ -33,9 +33,9 @@
                     <li>
                         <a href="">Sobre</a>
                         <ul class="submenu-desktop">
-                            <li><a href="">Sessão 1</a></li>
-                            <li><a href="">Sessão 2</a></li>
-                            <li><a href="">Sessão 3</a></li>
+                            <li><a href="https://ubuntu.com/download/desktop" target="_blank">Download Ubuntu 20.04.2 LTS</a></li>
+                            <li><a href="https://www.microsoft.com/pt-br/software-download/windows10ISO" target="_blank">Download Windows 10</a></li>
+                            <li><a href="https://www.macupdate.com/" target="_blank">Download Mac</a></li>
                         </ul>
                         <!--submenu-desktop-->
                     </li>
