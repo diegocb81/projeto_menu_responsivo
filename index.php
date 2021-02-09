@@ -24,9 +24,9 @@
                     <li>
                         <a href="">Home</a>
                         <ul class="submenu-desktop">
-                            <li><a href="">Sessão 1</a></li>
-                            <li><a href="">Sessão 2</a></li>
-                            <li><a href="">Sessão 3</a></li>
+                            <li><a href="https://pt.wikipedia.org/wiki/Linux" target="_blank">Linux</a></li>
+                            <li><a href="https://pt.wikipedia.org/wiki/Microsoft_Windows" target="_blank">Windows</a></li>
+                            <li><a href="https://pt.wikipedia.org/wiki/Macintosh" target="_blank">Mac</a></li>
                         </ul>
                         <!--submenu-desktop-->
                     </li>
@@ -86,7 +86,7 @@
     </header>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript">
-        $('nav.menu-mobile > i').click(function(){
+        $('nav.menu-mobile > i').click(function() {
             $(this).parent().find('ul:not(.submenu-mobile)').slideToggle();
         })
     </script>
