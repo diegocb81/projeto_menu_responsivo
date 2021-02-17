@@ -17,7 +17,7 @@
     <header>
         <div class="container">
             <div class="logo">
-                <h2>Logomarca</h2>
+                <h2>DAST</h2>
             </div>
             <!--logo-->
             <nav class="menu-desktop">
