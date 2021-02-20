@@ -85,6 +85,12 @@
         </div>
         <!--container-->
     </header>
+    <div class="conteudo">
+        <div class="nossa_historia">
+            <h2>Nossa história</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis enim et sodales molestie. Duis ac odio vitae risus cursus convallis. Praesent nec tellus velit. Donec faucibus arcu sit amet nibh dictum, a cursus mi porttitor. Proin eget nulla nibh. Aenean justo diam, feugiat ultrices elementum porttitor, ornare at dui. Nunc auctor nibh vitae velit efficitur, eget sollicitudin ipsum pellentesque. Donec purus tellus, mattis eu sapien vitae, viverra scelerisque velit. Sed mi libero, interdum in dolor eget, pulvinar commodo nibh.</p>
+        </div><!--nossa_historia-->
+    </div><!--conteudo-->
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript">
         $('nav.menu-mobile > i').click(function() {
