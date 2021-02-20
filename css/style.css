@@ -112,6 +112,15 @@ nav.menu-mobile > i{
     color: white;
 }
 
+.conteudo{
+    margin-left: 0 15px;
+}
+
+.conteudo img{
+    height: 200px;
+    width: 300px;
+}
+
 @media screen and (max-width: 768px){
     nav.menu-desktop{
         display: none;
