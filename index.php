@@ -16,8 +16,8 @@
     <header>
         <div class="container">
             <div class="logo">
-                <h2>DAST</h2>
-            </div>
+                <a href="https://www.google.com" target="_blank"><h2>DAST</h2>
+            </div></a>
             <!--logo-->
             <nav class="menu-desktop">
                 <ul>

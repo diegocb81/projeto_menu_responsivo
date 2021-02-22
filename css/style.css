@@ -18,6 +18,12 @@
 .logo{
     color: white;
     float: left;
+    text-decoration: none;
+}
+
+.logo a{
+    color: white;
+    text-decoration: none;
 }
 
 header{
