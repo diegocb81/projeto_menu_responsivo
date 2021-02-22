@@ -94,8 +94,8 @@
         <div class="nosso_compromisso">
             <h2>Nosso compromisso</h2>
             <p>Quisque sed orci porttitor, efficitur libero eget, commodo elit. Mauris eget dui a nisl tristique aliquam et blandit sem. Suspendisse interdum ante dui, eu eleifend lectus pulvinar ut. Mauris a elit tellus. Mauris tincidunt ac felis ac sagittis. Ut pulvinar velit vel ipsum fermentum accumsan. Maecenas a leo fermentum, semper ante ut, feugiat eros. Aliquam sed lectus eget tortor sollicitudin dignissim.</p>
-
         </div>
+        <img src="img/tania-malrechauffe-9UsBCCGEbv0-unsplash.jpg" alt="Playa Uruguay">
         <!--nosso_compromisso-->
     </div>
     <!--conteudo-->
