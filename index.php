@@ -88,9 +88,17 @@
         <div class="nossa_historia">
             <h2>Nossa história</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis enim et sodales molestie. Duis ac odio vitae risus cursus convallis. Praesent nec tellus velit. Donec faucibus arcu sit amet nibh dictum, a cursus mi porttitor. Proin eget nulla nibh. Aenean justo diam, feugiat ultrices elementum porttitor, ornare at dui. Nunc auctor nibh vitae velit efficitur, eget sollicitudin ipsum pellentesque. Donec purus tellus, mattis eu sapien vitae, viverra scelerisque velit. Sed mi libero, interdum in dolor eget, pulvinar commodo nibh.</p>
-        </div><!--nossa_historia-->
+        </div>
+        <!--nossa_historia-->
         <img src="img/ezequiel-garrido-UkhbQE0mR8Q-unsplash.jpg" alt="Uruguay">
-    </div><!--conteudo-->
+        <div class="nosso_compromisso">
+            <h2>Nosso compromisso</h2>
+            <p>Quisque sed orci porttitor, efficitur libero eget, commodo elit. Mauris eget dui a nisl tristique aliquam et blandit sem. Suspendisse interdum ante dui, eu eleifend lectus pulvinar ut. Mauris a elit tellus. Mauris tincidunt ac felis ac sagittis. Ut pulvinar velit vel ipsum fermentum accumsan. Maecenas a leo fermentum, semper ante ut, feugiat eros. Aliquam sed lectus eget tortor sollicitudin dignissim.</p>
+
+        </div>
+        <!--nosso_compromisso-->
+    </div>
+    <!--conteudo-->
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript">
         $('nav.menu-mobile > i').click(function() {
